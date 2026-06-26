@@ -1,0 +1,4 @@
+server.cfg
+server.cfg.bkp
+*.bkp
+cache/
